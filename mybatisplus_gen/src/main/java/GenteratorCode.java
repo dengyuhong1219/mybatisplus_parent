@@ -12,7 +12,11 @@ import java.util.*;
  * Created by CDHong on 2018/4/6.
  */
 public class GenteratorCode {
-
+    /**
+     * 测试成功
+     * @param args
+     * @throws InterruptedException
+     */
     public static void main(String[] args) throws InterruptedException {
         //用来获取Mybatis-Plus.properties文件的配置信息
          final ResourceBundle rb = ResourceBundle.getBundle("mybatisplus"); //不要加后缀
